@@ -1,0 +1,12 @@
+C:\Users\Stanislav\source\C_Sharp_Fundamentals\Linq1\Linq1\bin\Debug\netcoreapp3.1\Linq1.exe
+C:\Users\Stanislav\source\C_Sharp_Fundamentals\Linq1\Linq1\bin\Debug\netcoreapp3.1\Linq1.deps.json
+C:\Users\Stanislav\source\C_Sharp_Fundamentals\Linq1\Linq1\bin\Debug\netcoreapp3.1\Linq1.runtimeconfig.json
+C:\Users\Stanislav\source\C_Sharp_Fundamentals\Linq1\Linq1\bin\Debug\netcoreapp3.1\Linq1.runtimeconfig.dev.json
+C:\Users\Stanislav\source\C_Sharp_Fundamentals\Linq1\Linq1\bin\Debug\netcoreapp3.1\Linq1.dll
+C:\Users\Stanislav\source\C_Sharp_Fundamentals\Linq1\Linq1\bin\Debug\netcoreapp3.1\Linq1.pdb
+C:\Users\Stanislav\source\C_Sharp_Fundamentals\Linq1\Linq1\obj\Debug\netcoreapp3.1\Linq1.AssemblyInfoInputs.cache
+C:\Users\Stanislav\source\C_Sharp_Fundamentals\Linq1\Linq1\obj\Debug\netcoreapp3.1\Linq1.AssemblyInfo.cs
+C:\Users\Stanislav\source\C_Sharp_Fundamentals\Linq1\Linq1\obj\Debug\netcoreapp3.1\Linq1.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav\source\C_Sharp_Fundamentals\Linq1\Linq1\obj\Debug\netcoreapp3.1\Linq1.dll
+C:\Users\Stanislav\source\C_Sharp_Fundamentals\Linq1\Linq1\obj\Debug\netcoreapp3.1\Linq1.pdb
+C:\Users\Stanislav\source\C_Sharp_Fundamentals\Linq1\Linq1\obj\Debug\netcoreapp3.1\Linq1.genruntimeconfig.cache

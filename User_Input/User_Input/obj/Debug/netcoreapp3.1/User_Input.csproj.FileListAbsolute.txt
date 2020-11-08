@@ -1,0 +1,13 @@
+C:\Users\Stanislav\source\repos\User_Input\User_Input\bin\Debug\netcoreapp3.1\User_Input.exe
+C:\Users\Stanislav\source\repos\User_Input\User_Input\bin\Debug\netcoreapp3.1\User_Input.deps.json
+C:\Users\Stanislav\source\repos\User_Input\User_Input\bin\Debug\netcoreapp3.1\User_Input.runtimeconfig.json
+C:\Users\Stanislav\source\repos\User_Input\User_Input\bin\Debug\netcoreapp3.1\User_Input.runtimeconfig.dev.json
+C:\Users\Stanislav\source\repos\User_Input\User_Input\bin\Debug\netcoreapp3.1\User_Input.dll
+C:\Users\Stanislav\source\repos\User_Input\User_Input\bin\Debug\netcoreapp3.1\User_Input.pdb
+C:\Users\Stanislav\source\repos\User_Input\User_Input\obj\Debug\netcoreapp3.1\User_Input.csprojAssemblyReference.cache
+C:\Users\Stanislav\source\repos\User_Input\User_Input\obj\Debug\netcoreapp3.1\User_Input.AssemblyInfoInputs.cache
+C:\Users\Stanislav\source\repos\User_Input\User_Input\obj\Debug\netcoreapp3.1\User_Input.AssemblyInfo.cs
+C:\Users\Stanislav\source\repos\User_Input\User_Input\obj\Debug\netcoreapp3.1\User_Input.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav\source\repos\User_Input\User_Input\obj\Debug\netcoreapp3.1\User_Input.dll
+C:\Users\Stanislav\source\repos\User_Input\User_Input\obj\Debug\netcoreapp3.1\User_Input.pdb
+C:\Users\Stanislav\source\repos\User_Input\User_Input\obj\Debug\netcoreapp3.1\User_Input.genruntimeconfig.cache

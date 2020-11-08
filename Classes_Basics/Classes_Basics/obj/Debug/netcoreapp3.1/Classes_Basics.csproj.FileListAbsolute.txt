@@ -1,0 +1,13 @@
+C:\Users\Stanislav\source\repos\Classes_Basics\Classes_Basics\bin\Debug\netcoreapp3.1\Classes_Basics.exe
+C:\Users\Stanislav\source\repos\Classes_Basics\Classes_Basics\bin\Debug\netcoreapp3.1\Classes_Basics.deps.json
+C:\Users\Stanislav\source\repos\Classes_Basics\Classes_Basics\bin\Debug\netcoreapp3.1\Classes_Basics.runtimeconfig.json
+C:\Users\Stanislav\source\repos\Classes_Basics\Classes_Basics\bin\Debug\netcoreapp3.1\Classes_Basics.runtimeconfig.dev.json
+C:\Users\Stanislav\source\repos\Classes_Basics\Classes_Basics\bin\Debug\netcoreapp3.1\Classes_Basics.dll
+C:\Users\Stanislav\source\repos\Classes_Basics\Classes_Basics\bin\Debug\netcoreapp3.1\Classes_Basics.pdb
+C:\Users\Stanislav\source\repos\Classes_Basics\Classes_Basics\obj\Debug\netcoreapp3.1\Classes_Basics.csprojAssemblyReference.cache
+C:\Users\Stanislav\source\repos\Classes_Basics\Classes_Basics\obj\Debug\netcoreapp3.1\Classes_Basics.AssemblyInfoInputs.cache
+C:\Users\Stanislav\source\repos\Classes_Basics\Classes_Basics\obj\Debug\netcoreapp3.1\Classes_Basics.AssemblyInfo.cs
+C:\Users\Stanislav\source\repos\Classes_Basics\Classes_Basics\obj\Debug\netcoreapp3.1\Classes_Basics.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav\source\repos\Classes_Basics\Classes_Basics\obj\Debug\netcoreapp3.1\Classes_Basics.dll
+C:\Users\Stanislav\source\repos\Classes_Basics\Classes_Basics\obj\Debug\netcoreapp3.1\Classes_Basics.pdb
+C:\Users\Stanislav\source\repos\Classes_Basics\Classes_Basics\obj\Debug\netcoreapp3.1\Classes_Basics.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Stanislav\source\repos\If_Statement\If_Statement\bin\Debug\netcoreapp3.1\If_Statement.exe
+C:\Users\Stanislav\source\repos\If_Statement\If_Statement\bin\Debug\netcoreapp3.1\If_Statement.deps.json
+C:\Users\Stanislav\source\repos\If_Statement\If_Statement\bin\Debug\netcoreapp3.1\If_Statement.runtimeconfig.json
+C:\Users\Stanislav\source\repos\If_Statement\If_Statement\bin\Debug\netcoreapp3.1\If_Statement.runtimeconfig.dev.json
+C:\Users\Stanislav\source\repos\If_Statement\If_Statement\bin\Debug\netcoreapp3.1\If_Statement.dll
+C:\Users\Stanislav\source\repos\If_Statement\If_Statement\bin\Debug\netcoreapp3.1\If_Statement.pdb
+C:\Users\Stanislav\source\repos\If_Statement\If_Statement\obj\Debug\netcoreapp3.1\If_Statement.csprojAssemblyReference.cache
+C:\Users\Stanislav\source\repos\If_Statement\If_Statement\obj\Debug\netcoreapp3.1\If_Statement.AssemblyInfoInputs.cache
+C:\Users\Stanislav\source\repos\If_Statement\If_Statement\obj\Debug\netcoreapp3.1\If_Statement.AssemblyInfo.cs
+C:\Users\Stanislav\source\repos\If_Statement\If_Statement\obj\Debug\netcoreapp3.1\If_Statement.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav\source\repos\If_Statement\If_Statement\obj\Debug\netcoreapp3.1\If_Statement.dll
+C:\Users\Stanislav\source\repos\If_Statement\If_Statement\obj\Debug\netcoreapp3.1\If_Statement.pdb
+C:\Users\Stanislav\source\repos\If_Statement\If_Statement\obj\Debug\netcoreapp3.1\If_Statement.genruntimeconfig.cache

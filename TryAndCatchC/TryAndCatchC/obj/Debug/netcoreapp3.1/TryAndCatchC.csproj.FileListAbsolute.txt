@@ -1,0 +1,13 @@
+C:\Users\Stanislav\source\repos\TryAndCatchC\TryAndCatchC\bin\Debug\netcoreapp3.1\TryAndCatchC.exe
+C:\Users\Stanislav\source\repos\TryAndCatchC\TryAndCatchC\bin\Debug\netcoreapp3.1\TryAndCatchC.deps.json
+C:\Users\Stanislav\source\repos\TryAndCatchC\TryAndCatchC\bin\Debug\netcoreapp3.1\TryAndCatchC.runtimeconfig.json
+C:\Users\Stanislav\source\repos\TryAndCatchC\TryAndCatchC\bin\Debug\netcoreapp3.1\TryAndCatchC.runtimeconfig.dev.json
+C:\Users\Stanislav\source\repos\TryAndCatchC\TryAndCatchC\bin\Debug\netcoreapp3.1\TryAndCatchC.dll
+C:\Users\Stanislav\source\repos\TryAndCatchC\TryAndCatchC\bin\Debug\netcoreapp3.1\TryAndCatchC.pdb
+C:\Users\Stanislav\source\repos\TryAndCatchC\TryAndCatchC\obj\Debug\netcoreapp3.1\TryAndCatchC.csprojAssemblyReference.cache
+C:\Users\Stanislav\source\repos\TryAndCatchC\TryAndCatchC\obj\Debug\netcoreapp3.1\TryAndCatchC.AssemblyInfoInputs.cache
+C:\Users\Stanislav\source\repos\TryAndCatchC\TryAndCatchC\obj\Debug\netcoreapp3.1\TryAndCatchC.AssemblyInfo.cs
+C:\Users\Stanislav\source\repos\TryAndCatchC\TryAndCatchC\obj\Debug\netcoreapp3.1\TryAndCatchC.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav\source\repos\TryAndCatchC\TryAndCatchC\obj\Debug\netcoreapp3.1\TryAndCatchC.dll
+C:\Users\Stanislav\source\repos\TryAndCatchC\TryAndCatchC\obj\Debug\netcoreapp3.1\TryAndCatchC.pdb
+C:\Users\Stanislav\source\repos\TryAndCatchC\TryAndCatchC\obj\Debug\netcoreapp3.1\TryAndCatchC.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Stanislav\source\repos\RegisteringAndLoggingIn\RegisteringAndLoggingIn\bin\Debug\netcoreapp3.1\RegisteringAndLoggingIn.exe
+C:\Users\Stanislav\source\repos\RegisteringAndLoggingIn\RegisteringAndLoggingIn\bin\Debug\netcoreapp3.1\RegisteringAndLoggingIn.deps.json
+C:\Users\Stanislav\source\repos\RegisteringAndLoggingIn\RegisteringAndLoggingIn\bin\Debug\netcoreapp3.1\RegisteringAndLoggingIn.runtimeconfig.json
+C:\Users\Stanislav\source\repos\RegisteringAndLoggingIn\RegisteringAndLoggingIn\bin\Debug\netcoreapp3.1\RegisteringAndLoggingIn.runtimeconfig.dev.json
+C:\Users\Stanislav\source\repos\RegisteringAndLoggingIn\RegisteringAndLoggingIn\bin\Debug\netcoreapp3.1\RegisteringAndLoggingIn.dll
+C:\Users\Stanislav\source\repos\RegisteringAndLoggingIn\RegisteringAndLoggingIn\bin\Debug\netcoreapp3.1\RegisteringAndLoggingIn.pdb
+C:\Users\Stanislav\source\repos\RegisteringAndLoggingIn\RegisteringAndLoggingIn\obj\Debug\netcoreapp3.1\RegisteringAndLoggingIn.csprojAssemblyReference.cache
+C:\Users\Stanislav\source\repos\RegisteringAndLoggingIn\RegisteringAndLoggingIn\obj\Debug\netcoreapp3.1\RegisteringAndLoggingIn.AssemblyInfoInputs.cache
+C:\Users\Stanislav\source\repos\RegisteringAndLoggingIn\RegisteringAndLoggingIn\obj\Debug\netcoreapp3.1\RegisteringAndLoggingIn.AssemblyInfo.cs
+C:\Users\Stanislav\source\repos\RegisteringAndLoggingIn\RegisteringAndLoggingIn\obj\Debug\netcoreapp3.1\RegisteringAndLoggingIn.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav\source\repos\RegisteringAndLoggingIn\RegisteringAndLoggingIn\obj\Debug\netcoreapp3.1\RegisteringAndLoggingIn.dll
+C:\Users\Stanislav\source\repos\RegisteringAndLoggingIn\RegisteringAndLoggingIn\obj\Debug\netcoreapp3.1\RegisteringAndLoggingIn.pdb
+C:\Users\Stanislav\source\repos\RegisteringAndLoggingIn\RegisteringAndLoggingIn\obj\Debug\netcoreapp3.1\RegisteringAndLoggingIn.genruntimeconfig.cache

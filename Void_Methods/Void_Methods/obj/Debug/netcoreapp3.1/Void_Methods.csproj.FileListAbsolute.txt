@@ -1,0 +1,13 @@
+C:\Users\Stanislav\source\C_Sharp_Fundamentals\Void_Methods\Void_Methods\bin\Debug\netcoreapp3.1\Void_Methods.exe
+C:\Users\Stanislav\source\C_Sharp_Fundamentals\Void_Methods\Void_Methods\bin\Debug\netcoreapp3.1\Void_Methods.deps.json
+C:\Users\Stanislav\source\C_Sharp_Fundamentals\Void_Methods\Void_Methods\bin\Debug\netcoreapp3.1\Void_Methods.runtimeconfig.json
+C:\Users\Stanislav\source\C_Sharp_Fundamentals\Void_Methods\Void_Methods\bin\Debug\netcoreapp3.1\Void_Methods.runtimeconfig.dev.json
+C:\Users\Stanislav\source\C_Sharp_Fundamentals\Void_Methods\Void_Methods\bin\Debug\netcoreapp3.1\Void_Methods.dll
+C:\Users\Stanislav\source\C_Sharp_Fundamentals\Void_Methods\Void_Methods\bin\Debug\netcoreapp3.1\Void_Methods.pdb
+C:\Users\Stanislav\source\C_Sharp_Fundamentals\Void_Methods\Void_Methods\obj\Debug\netcoreapp3.1\Void_Methods.csprojAssemblyReference.cache
+C:\Users\Stanislav\source\C_Sharp_Fundamentals\Void_Methods\Void_Methods\obj\Debug\netcoreapp3.1\Void_Methods.AssemblyInfoInputs.cache
+C:\Users\Stanislav\source\C_Sharp_Fundamentals\Void_Methods\Void_Methods\obj\Debug\netcoreapp3.1\Void_Methods.AssemblyInfo.cs
+C:\Users\Stanislav\source\C_Sharp_Fundamentals\Void_Methods\Void_Methods\obj\Debug\netcoreapp3.1\Void_Methods.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav\source\C_Sharp_Fundamentals\Void_Methods\Void_Methods\obj\Debug\netcoreapp3.1\Void_Methods.dll
+C:\Users\Stanislav\source\C_Sharp_Fundamentals\Void_Methods\Void_Methods\obj\Debug\netcoreapp3.1\Void_Methods.pdb
+C:\Users\Stanislav\source\C_Sharp_Fundamentals\Void_Methods\Void_Methods\obj\Debug\netcoreapp3.1\Void_Methods.genruntimeconfig.cache

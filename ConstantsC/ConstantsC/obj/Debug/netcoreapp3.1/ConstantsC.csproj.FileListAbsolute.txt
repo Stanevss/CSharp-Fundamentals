@@ -1,0 +1,13 @@
+C:\Users\Stanislav\source\C_Sharp_Fundamentals\ConstantsC\ConstantsC\bin\Debug\netcoreapp3.1\ConstantsC.exe
+C:\Users\Stanislav\source\C_Sharp_Fundamentals\ConstantsC\ConstantsC\bin\Debug\netcoreapp3.1\ConstantsC.deps.json
+C:\Users\Stanislav\source\C_Sharp_Fundamentals\ConstantsC\ConstantsC\bin\Debug\netcoreapp3.1\ConstantsC.runtimeconfig.json
+C:\Users\Stanislav\source\C_Sharp_Fundamentals\ConstantsC\ConstantsC\bin\Debug\netcoreapp3.1\ConstantsC.runtimeconfig.dev.json
+C:\Users\Stanislav\source\C_Sharp_Fundamentals\ConstantsC\ConstantsC\bin\Debug\netcoreapp3.1\ConstantsC.dll
+C:\Users\Stanislav\source\C_Sharp_Fundamentals\ConstantsC\ConstantsC\bin\Debug\netcoreapp3.1\ConstantsC.pdb
+C:\Users\Stanislav\source\C_Sharp_Fundamentals\ConstantsC\ConstantsC\obj\Debug\netcoreapp3.1\ConstantsC.csprojAssemblyReference.cache
+C:\Users\Stanislav\source\C_Sharp_Fundamentals\ConstantsC\ConstantsC\obj\Debug\netcoreapp3.1\ConstantsC.AssemblyInfoInputs.cache
+C:\Users\Stanislav\source\C_Sharp_Fundamentals\ConstantsC\ConstantsC\obj\Debug\netcoreapp3.1\ConstantsC.AssemblyInfo.cs
+C:\Users\Stanislav\source\C_Sharp_Fundamentals\ConstantsC\ConstantsC\obj\Debug\netcoreapp3.1\ConstantsC.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav\source\C_Sharp_Fundamentals\ConstantsC\ConstantsC\obj\Debug\netcoreapp3.1\ConstantsC.dll
+C:\Users\Stanislav\source\C_Sharp_Fundamentals\ConstantsC\ConstantsC\obj\Debug\netcoreapp3.1\ConstantsC.pdb
+C:\Users\Stanislav\source\C_Sharp_Fundamentals\ConstantsC\ConstantsC\obj\Debug\netcoreapp3.1\ConstantsC.genruntimeconfig.cache
