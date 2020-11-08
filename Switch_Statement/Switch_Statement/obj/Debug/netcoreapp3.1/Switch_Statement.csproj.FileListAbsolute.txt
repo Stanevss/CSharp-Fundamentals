@@ -1,0 +1,13 @@
+C:\Users\Stanislav\source\repos\Switch_Statement\Switch_Statement\obj\Debug\netcoreapp3.1\Switch_Statement.csprojAssemblyReference.cache
+C:\Users\Stanislav\source\repos\Switch_Statement\Switch_Statement\obj\Debug\netcoreapp3.1\Switch_Statement.AssemblyInfoInputs.cache
+C:\Users\Stanislav\source\repos\Switch_Statement\Switch_Statement\obj\Debug\netcoreapp3.1\Switch_Statement.AssemblyInfo.cs
+C:\Users\Stanislav\source\repos\Switch_Statement\Switch_Statement\obj\Debug\netcoreapp3.1\Switch_Statement.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav\source\repos\Switch_Statement\Switch_Statement\bin\Debug\netcoreapp3.1\Switch_Statement.exe
+C:\Users\Stanislav\source\repos\Switch_Statement\Switch_Statement\bin\Debug\netcoreapp3.1\Switch_Statement.deps.json
+C:\Users\Stanislav\source\repos\Switch_Statement\Switch_Statement\bin\Debug\netcoreapp3.1\Switch_Statement.runtimeconfig.json
+C:\Users\Stanislav\source\repos\Switch_Statement\Switch_Statement\bin\Debug\netcoreapp3.1\Switch_Statement.runtimeconfig.dev.json
+C:\Users\Stanislav\source\repos\Switch_Statement\Switch_Statement\bin\Debug\netcoreapp3.1\Switch_Statement.dll
+C:\Users\Stanislav\source\repos\Switch_Statement\Switch_Statement\bin\Debug\netcoreapp3.1\Switch_Statement.pdb
+C:\Users\Stanislav\source\repos\Switch_Statement\Switch_Statement\obj\Debug\netcoreapp3.1\Switch_Statement.dll
+C:\Users\Stanislav\source\repos\Switch_Statement\Switch_Statement\obj\Debug\netcoreapp3.1\Switch_Statement.pdb
+C:\Users\Stanislav\source\repos\Switch_Statement\Switch_Statement\obj\Debug\netcoreapp3.1\Switch_Statement.genruntimeconfig.cache
